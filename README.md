@@ -10,6 +10,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="c--logo-icon-0.png" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="csharp logo.png" height="30" alt="csharp logo"  />
 </div>
 
 ###
