@@ -11,7 +11,7 @@
   <img width="12" />
   <img src="c--logo-icon-0.png" height="30" alt="csharp logo"  />
   <img width="12" />
-  <img src="csharp logo.png" height="30" alt="csharp logo"  />
+  <img src="csharpNew.png" height="30" alt="csharp logo"  />
 </div>
 
 ###
